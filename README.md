@@ -1,4 +1,4 @@
-## Hi there my name is Ekwere 👋
+## Hi there my name is Ekwere, an IT Professional 👋
 
 <!--
 **eoffiong/eoffiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
